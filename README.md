@@ -1,7 +1,12 @@
 # Flappy Bird - TP 6 DPBO (Java Swing)
 
-Nama : (isi nama)
-NIM : (isi NIM)
+**Nama :** Najib Nurohman  
+**NIM :** 2509653  
+
+## 📜 JANJI
+> Saya **Najib Nurohman** dengan NIM **2509653** mengerjakan **Tugas Praktikum 6** dalam mata kuliah **Desain Pemrograman Berorientasi Objek (DPBO)** untuk keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+---
 
 ## Desain Program
 

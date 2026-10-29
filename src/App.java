@@ -1,3 +1,9 @@
+/**
+ * Saya Najib Nurohman dengan NIM 2509653 mengerjakan Tugas Praktikum 6 dalam mata kuliah
+ * Desain Pemrograman Berorientasi Objek (DPBO) untuk keberkahan-Nya maka saya tidak akan melakukan
+ * kecurangan seperti yang telah dispesifikasikan. Aamiin.
+ */
+
 import javax.sound.sampled.AudioInputStream;
 import javax.sound.sampled.AudioSystem;
 import javax.sound.sampled.Clip;
