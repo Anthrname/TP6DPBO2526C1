@@ -60,11 +60,26 @@ Atau buka folder proyek di IntelliJ IDEA, lalu jalankan `App.java`. Pastikan fol
 
 ## Dokumentasi Program Dijalankan
 
-> Ganti bagian ini dengan screenshot/screenrecord milikmu. File video/gif diletakkan di folder `Dokumentasi`.
+Berikut adalah dokumentasi tampilan dan alur permainan Flappy Bird:
 
-- Main Menu: `Dokumentasi/menu.png`
-- Gameplay (skor bertambah): `Dokumentasi/gameplay.png`
-- Game Over: `Dokumentasi/gameover.png`
-- Video: `Dokumentasi/demo.mp4`
+### 1. Main Menu
+Tampilan layar awal sebelum permainan dimulai dengan tombol **Mulai** dan **Keluar**.
 
-<!-- contoh embed: ![Main Menu](Dokumentasi/menu.png) -->
+![Main Menu](Dokumentasi/menu.png)
+
+### 2. Gameplay
+Tampilan saat permainan sedang berjalan, burung melompati celah pipa, dan skor bertambah.
+
+![Gameplay](Dokumentasi/gameplay.png)
+
+### 3. Game Over
+Tampilan ketika burung menabrak pipa atau menyentuh batas bawah layar, disertai skor akhir dan instruksi menekan tombol `R` untuk restart.
+
+![Game Over](Dokumentasi/gameover.png)
+
+### 4. Animasi Gameplay (GIF) & Demo
+Demonstrasi rekaman alur permainan dari awal hingga Game Over:
+
+![Demo Gameplay](Dokumentasi/demo.gif)
+
+> File rekaman video asli (.mp4) tersimpan di [`Dokumentasi/demo.mp4`](Dokumentasi/demo.mp4).
